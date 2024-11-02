@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehosuaqe.github.io/ADk/sitemap_index.txt
+Sitemap: https://ehosuaqe.github.io/DNa/sitemap_index.txt
+Sitemap: https://ehosuaqe.github.io/Zug/sitemap_index.txt
+Sitemap: https://ehosuaqe.github.io/kHt/sitemap_index.txt
